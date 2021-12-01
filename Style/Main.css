@@ -1,0 +1,14 @@
+/* Styles for the Elements*/
+li{
+    display: inline;
+    text-align: center;
+}
+body{
+    background-color: tan;
+}
+/* Styles for the Header*/
+head title{
+    text-align: center;
+}
+/* Styles for the Section*/
+/* Styles for the Footer*/
